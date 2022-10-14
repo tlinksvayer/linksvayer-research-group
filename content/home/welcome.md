@@ -13,6 +13,4 @@ hero_media: welcome.jpg
 ---
 <br>
 
-W﻿e study the genetic, behavioral, and developmental underpinnings of complex social systems in order to understand how these systems function and evolve. We use social insects, such as the pharaoh ant pictured above, as a study system because they are exemplar social systems and are also well-established models for research in social evolution, behavioral genetics, and collective behavior. 
-
-The **Wowchemy Research Group**
+W﻿e study the genetic, behavioral, and developmental underpinnings of complex social systems in order to understand how these systems function and evolve. We use social insects, such as the pharaoh ant pictured above, as a study system because they are exemplar social systems and are also well-established models for research in social evolution, behavioral genetics, and collective behavior.
