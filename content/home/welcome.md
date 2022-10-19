@@ -1,16 +1,21 @@
 ---
-widget: hero
-widget_id: top
-headless: true
-weight: 10
-title: Linksvayer lab
-subtitle: Social Evolution, Evolutionary Genetics, Comparative Genomics
-design:
-  columns: "1"
-  css_style: null
-  css_class: null
-hero_media: welcome.jpg
----
-<br>
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-W﻿e study the genetic, behavioral, and developmental underpinnings of complex social systems in order to understand how these systems function and evolve. We use social insects, such as the pharaoh ant pictured above, as a study system because they are exemplar social systems and are also well-established models for research in social evolution, behavioral genetics, and collective behavior.
+widget: hero # See https://wowchemy.com/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 10 # Order that this section will appear.
+#title: 
+#  Linksvayer lab
+hero_media: welcome.jpg
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
+---
+ <br>
+
+We study ants!
