@@ -1,20 +1,15 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-#title: 
-#  Linksvayer lab
+widget: hero
+widget_id: "1"
+headless: true
+weight: 10
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
+  background:
+    image: pontieri-monomorium-pharaonis-queen-with-workers.jpg
 ---
  <br>
 
