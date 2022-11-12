@@ -9,7 +9,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: pontieri-monomorium-pharaonis-queen-with-workers.jpg
+    image: ""
 ---
  <br>
 
